@@ -1,0 +1,14 @@
+C:\Users\josh\source\repos\NewsAppWF\NewsAppWF\bin\Debug\NewsAppWF.exe.config
+C:\Users\josh\source\repos\NewsAppWF\NewsAppWF\bin\Debug\NewsAppWF.exe
+C:\Users\josh\source\repos\NewsAppWF\NewsAppWF\bin\Debug\NewsAppWF.pdb
+C:\Users\josh\source\repos\NewsAppWF\NewsAppWF\bin\Debug\NewsAPI.dll
+C:\Users\josh\source\repos\NewsAppWF\NewsAppWF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\josh\source\repos\NewsAppWF\NewsAppWF\bin\Debug\NewsAPI.xml
+C:\Users\josh\source\repos\NewsAppWF\NewsAppWF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\josh\source\repos\NewsAppWF\NewsAppWF\obj\Debug\NewsAppWF.csprojAssemblyReference.cache
+C:\Users\josh\source\repos\NewsAppWF\NewsAppWF\obj\Debug\NewsAppWF.Form1.resources
+C:\Users\josh\source\repos\NewsAppWF\NewsAppWF\obj\Debug\NewsAppWF.Properties.Resources.resources
+C:\Users\josh\source\repos\NewsAppWF\NewsAppWF\obj\Debug\NewsAppWF.csproj.GenerateResource.cache
+C:\Users\josh\source\repos\NewsAppWF\NewsAppWF\obj\Debug\NewsAppWF.csproj.CopyComplete
+C:\Users\josh\source\repos\NewsAppWF\NewsAppWF\obj\Debug\NewsAppWF.exe
+C:\Users\josh\source\repos\NewsAppWF\NewsAppWF\obj\Debug\NewsAppWF.pdb
